@@ -20,7 +20,7 @@
     },
     "acceptance-tests": {
         "endpoints": {
-            "docker": "http://api:7006/v1/"
+            "docker": "http://api:4000/v1/"
         }
     },
     "api": {
