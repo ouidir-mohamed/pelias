@@ -37,7 +37,7 @@
         },
         "geonames": {
             "datapath": "/data/geonames",
-            "countryCode": "AU"
+            "countryCode": "DZ"
         },
         "openstreetmap": {
             "download": [
@@ -52,7 +52,7 @@
         "openaddresses": {
             "datapath": "/data/openaddresses",
             "files": [
-                "au/countrywide.csv"
+                "dz/countrywide.csv"
             ]
         },
         "polyline": {
@@ -61,7 +61,7 @@
         },
         "whosonfirst": {
             "datapath": "/data/whosonfirst",
-            "countryCode": "AU",
+            "countryCode": "DZ",
             "importPostalcodes": true,
             "importPlace": [
                 "85632793"
